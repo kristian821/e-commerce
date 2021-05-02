@@ -23,7 +23,7 @@
 
   ## Usage
 
-  ![E-Commerce Backend](./example.mp4)
+  ![E-Commerce Backend](./example.m4v)
   You will need to create a '.env' file and add your info for your mySql database to be able to use the database. 
   
   ## Contributions
